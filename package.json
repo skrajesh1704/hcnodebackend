@@ -1,0 +1,20 @@
+{
+  "name": "backendlearn",
+  "version": "1.0.0",
+  "description": "a basic backend learning project",
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "sk rajesh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  }
+}
